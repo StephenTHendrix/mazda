@@ -1,0 +1,325 @@
+[
+  {
+    "12/09": {
+      "FREEMAN MAZDA": {
+        "inTransit": 1,
+        "atDealership": 4,
+        "inTransitWithAllRequirements": 0,
+        "atDealershipWithAllRequirements": 0,
+        "inTransitWithRoofRack": 0,
+        "atDealershipWithRoofRack": 1,
+        "decemberEta": 1,
+        "decemberEtaWithAllRequirements": 0,
+        "decemberEtaWithRoofRack": 0
+      },
+      "TOWN NORTH MAZDA": {
+        "inTransit": 6,
+        "atDealership": 2,
+        "inTransitWithAllRequirements": 0,
+        "atDealershipWithAllRequirements": 0,
+        "inTransitWithRoofRack": 1,
+        "atDealershipWithRoofRack": 0,
+        "decemberEta": 5,
+        "decemberEtaWithAllRequirements": 0,
+        "decemberEtaWithRoofRack": 0
+      },
+      "HILEY MAZDA OF HURST": {
+        "inTransit": 2,
+        "atDealership": 3,
+        "inTransitWithAllRequirements": 0,
+        "atDealershipWithAllRequirements": 1,
+        "inTransitWithRoofRack": 0,
+        "atDealershipWithRoofRack": 1,
+        "decemberEta": 2,
+        "decemberEtaWithAllRequirements": 0,
+        "decemberEtaWithRoofRack": 0
+      },
+      "EL DORADO MAZDA": {
+        "inTransit": 3,
+        "atDealership": 1,
+        "inTransitWithAllRequirements": 1,
+        "atDealershipWithAllRequirements": 0,
+        "inTransitWithRoofRack": 1,
+        "atDealershipWithRoofRack": 0,
+        "decemberEta": 2,
+        "decemberEtaWithAllRequirements": 1,
+        "decemberEtaWithRoofRack": 1
+      },
+      "DENTON MAZDA": {
+        "inTransit": 7,
+        "atDealership": 3,
+        "inTransitWithAllRequirements": 0,
+        "atDealershipWithAllRequirements": 0,
+        "inTransitWithRoofRack": 0,
+        "atDealershipWithRoofRack": 0,
+        "decemberEta": 4,
+        "decemberEtaWithAllRequirements": 0,
+        "decemberEtaWithRoofRack": 0
+      },
+      "HILEY MAZDA OF FORT WORTH": {
+        "inTransit": 5,
+        "atDealership": 0,
+        "inTransitWithAllRequirements": 1,
+        "atDealershipWithAllRequirements": 0,
+        "inTransitWithRoofRack": 1,
+        "atDealershipWithRoofRack": 0,
+        "decemberEta": 3,
+        "decemberEtaWithAllRequirements": 0,
+        "decemberEtaWithRoofRack": 0
+      },
+      "HILEY MAZDA OF ARLINGTON": {
+        "inTransit": 6,
+        "atDealership": 2,
+        "inTransitWithAllRequirements": 0,
+        "atDealershipWithAllRequirements": 0,
+        "inTransitWithRoofRack": 1,
+        "atDealershipWithRoofRack": 0,
+        "decemberEta": 4,
+        "decemberEtaWithAllRequirements": 0,
+        "decemberEtaWithRoofRack": 1
+      },
+      "METRO MAZDA MESQUITE": {
+        "inTransit": 7,
+        "atDealership": 2,
+        "inTransitWithAllRequirements": 1,
+        "atDealershipWithAllRequirements": 1,
+        "inTransitWithRoofRack": 2,
+        "atDealershipWithRoofRack": 1,
+        "decemberEta": 7,
+        "decemberEtaWithAllRequirements": 1,
+        "decemberEtaWithRoofRack": 2
+      },
+      "HILEY MAZDA OF BURLESON": {
+        "inTransit": 5,
+        "atDealership": 1,
+        "inTransitWithAllRequirements": 1,
+        "atDealershipWithAllRequirements": 0,
+        "inTransitWithRoofRack": 2,
+        "atDealershipWithRoofRack": 0,
+        "decemberEta": 2,
+        "decemberEtaWithAllRequirements": 0,
+        "decemberEtaWithRoofRack": 1
+      },
+      "total": {
+        "inTransit": 42,
+        "atDealership": 18
+      }
+    }
+  },
+    {
+      "12/10": {
+        "FREEMAN MAZDA": {
+          "inTransit": 1,
+          "atDealership": 4,
+          "inTransitWithAllRequirements": 0,
+          "atDealershipWithAllRequirements": 0,
+          "inTransitWithRoofRack": 0,
+          "atDealershipWithRoofRack": 1,
+          "decemberEta": 1,
+          "decemberEtaWithAllRequirements": 0,
+          "decemberEtaWithRoofRack": 0
+        },
+        "TOWN NORTH MAZDA": {
+          "inTransit": 6,
+          "atDealership": 2,
+          "inTransitWithAllRequirements": 0,
+          "atDealershipWithAllRequirements": 0,
+          "inTransitWithRoofRack": 1,
+          "atDealershipWithRoofRack": 0,
+          "decemberEta": 5,
+          "decemberEtaWithAllRequirements": 0,
+          "decemberEtaWithRoofRack": 0
+        },
+        "HILEY MAZDA OF HURST": {
+          "inTransit": 2,
+          "atDealership": 3,
+          "inTransitWithAllRequirements": 0,
+          "atDealershipWithAllRequirements": 1,
+          "inTransitWithRoofRack": 0,
+          "atDealershipWithRoofRack": 1,
+          "decemberEta": 2,
+          "decemberEtaWithAllRequirements": 0,
+          "decemberEtaWithRoofRack": 0
+        },
+        "EL DORADO MAZDA": {
+          "inTransit": 3,
+          "atDealership": 1,
+          "inTransitWithAllRequirements": 1,
+          "atDealershipWithAllRequirements": 0,
+          "inTransitWithRoofRack": 1,
+          "atDealershipWithRoofRack": 0,
+          "decemberEta": 2,
+          "decemberEtaWithAllRequirements": 1,
+          "decemberEtaWithRoofRack": 1
+        },
+        "DENTON MAZDA": {
+          "inTransit": 7,
+          "atDealership": 3,
+          "inTransitWithAllRequirements": 0,
+          "atDealershipWithAllRequirements": 0,
+          "inTransitWithRoofRack": 0,
+          "atDealershipWithRoofRack": 0,
+          "decemberEta": 4,
+          "decemberEtaWithAllRequirements": 0,
+          "decemberEtaWithRoofRack": 0
+        },
+        "HILEY MAZDA OF FORT WORTH": {
+          "inTransit": 5,
+          "atDealership": 0,
+          "inTransitWithAllRequirements": 1,
+          "atDealershipWithAllRequirements": 0,
+          "inTransitWithRoofRack": 1,
+          "atDealershipWithRoofRack": 0,
+          "decemberEta": 3,
+          "decemberEtaWithAllRequirements": 0,
+          "decemberEtaWithRoofRack": 0
+        },
+        "HILEY MAZDA OF ARLINGTON": {
+          "inTransit": 6,
+          "atDealership": 1,
+          "inTransitWithAllRequirements": 0,
+          "atDealershipWithAllRequirements": 0,
+          "inTransitWithRoofRack": 1,
+          "atDealershipWithRoofRack": 0,
+          "decemberEta": 4,
+          "decemberEtaWithAllRequirements": 0,
+          "decemberEtaWithRoofRack": 1
+        },
+        "METRO MAZDA MESQUITE": {
+          "inTransit": 7,
+          "atDealership": 2,
+          "inTransitWithAllRequirements": 1,
+          "atDealershipWithAllRequirements": 1,
+          "inTransitWithRoofRack": 2,
+          "atDealershipWithRoofRack": 1,
+          "decemberEta": 7,
+          "decemberEtaWithAllRequirements": 1,
+          "decemberEtaWithRoofRack": 2
+        },
+        "HILEY MAZDA OF BURLESON": {
+          "inTransit": 5,
+          "atDealership": 1,
+          "inTransitWithAllRequirements": 1,
+          "atDealershipWithAllRequirements": 0,
+          "inTransitWithRoofRack": 2,
+          "atDealershipWithRoofRack": 0,
+          "decemberEta": 2,
+          "decemberEtaWithAllRequirements": 0,
+          "decemberEtaWithRoofRack": 1
+        },
+        "total": {
+          "inTransit": 42,
+          "atDealership": 17
+        }
+      }
+    },
+    {
+      "12/12": {
+        "TOWN NORTH MAZDA": {
+          "inTransit": 8,
+          "atDealership": 2,
+          "inTransitWithAllRequirements": 0,
+          "atDealershipWithAllRequirements": 0,
+          "inTransitWithRoofRack": 2,
+          "atDealershipWithRoofRack": 0,
+          "decemberEta": 6,
+          "decemberEtaWithAllRequirements": 0,
+          "decemberEtaWithRoofRack": 0
+        },
+        "HILEY MAZDA OF HURST": {
+          "inTransit": 5,
+          "atDealership": 3,
+          "inTransitWithAllRequirements": 0,
+          "atDealershipWithAllRequirements": 0,
+          "inTransitWithRoofRack": 0,
+          "atDealershipWithRoofRack": 1,
+          "decemberEta": 5,
+          "decemberEtaWithAllRequirements": 0,
+          "decemberEtaWithRoofRack": 1
+        },
+        "DENTON MAZDA": {
+          "inTransit": 10,
+          "atDealership": 2,
+          "inTransitWithAllRequirements": 0,
+          "atDealershipWithAllRequirements": 0,
+          "inTransitWithRoofRack": 1,
+          "atDealershipWithRoofRack": 0,
+          "decemberEta": 5,
+          "decemberEtaWithAllRequirements": 0,
+          "decemberEtaWithRoofRack": 0
+        },
+        "HILEY MAZDA OF FORT WORTH": {
+          "inTransit": 8,
+          "atDealership": 0,
+          "inTransitWithAllRequirements": 0,
+          "atDealershipWithAllRequirements": 0,
+          "inTransitWithRoofRack": 3,
+          "atDealershipWithRoofRack": 0,
+          "decemberEta": 1,
+          "decemberEtaWithAllRequirements": 0,
+          "decemberEtaWithRoofRack": 0
+        },
+        "HILEY MAZDA OF BURLESON": {
+          "inTransit": 5,
+          "atDealership": 0,
+          "inTransitWithAllRequirements": 0,
+          "atDealershipWithAllRequirements": 0,
+          "inTransitWithRoofRack": 2,
+          "atDealershipWithRoofRack": 0,
+          "decemberEta": 2,
+          "decemberEtaWithAllRequirements": 0,
+          "decemberEtaWithRoofRack": 1
+        },
+        "HILEY MAZDA OF ARLINGTON": {
+          "inTransit": 7,
+          "atDealership": 1,
+          "inTransitWithAllRequirements": 0,
+          "atDealershipWithAllRequirements": 0,
+          "inTransitWithRoofRack": 1,
+          "atDealershipWithRoofRack": 0,
+          "decemberEta": 4,
+          "decemberEtaWithAllRequirements": 0,
+          "decemberEtaWithRoofRack": 1
+        },
+        "EL DORADO MAZDA": {
+          "inTransit": 6,
+          "atDealership": 0,
+          "inTransitWithAllRequirements": 0,
+          "atDealershipWithAllRequirements": 0,
+          "inTransitWithRoofRack": 1,
+          "atDealershipWithRoofRack": 0,
+          "decemberEta": 2,
+          "decemberEtaWithAllRequirements": 0,
+          "decemberEtaWithRoofRack": 1
+        },
+        "FREEMAN MAZDA": {
+          "inTransit": 1,
+          "atDealership": 4,
+          "inTransitWithAllRequirements": 0,
+          "atDealershipWithAllRequirements": 0,
+          "inTransitWithRoofRack": 0,
+          "atDealershipWithRoofRack": 1,
+          "decemberEta": 5,
+          "decemberEtaWithAllRequirements": 0,
+          "decemberEtaWithRoofRack": 1
+        },
+        "METRO MAZDA MESQUITE": {
+          "inTransit": 8,
+          "atDealership": 2,
+          "inTransitWithAllRequirements": 0,
+          "atDealershipWithAllRequirements": 0,
+          "inTransitWithRoofRack": 2,
+          "atDealershipWithRoofRack": 1,
+          "decemberEta": 9,
+          "decemberEtaWithAllRequirements": 0,
+          "decemberEtaWithRoofRack": 3
+        },
+        "total": {
+          "inTransit": 58,
+          "atDealership": 14,
+          "decemberEtaWithRoofRack": 5,
+          "atDealershipWithRoofRack": 3
+        }
+      }
+    }
+]
